@@ -25,12 +25,13 @@ def run(bk):
     if 'qt_geometry' not in prefs:
         prefs['qt_geometry'] = None
     if 'last_dir' not in prefs:
-        prefs['lastDir'] = os.path.expanduser('~')
+        prefs['last_dir'] = os.path.expanduser('~')
 
     # launch PyQt gui
     details = launch_gui(bk, prefs)
     print('Current time: {}'.format(details['time']))
     print('Button pushed: {}'.format(details['button_pushed']))
+    print('File selected: {}'.format(details['file_selected']))
 
     return 0
 

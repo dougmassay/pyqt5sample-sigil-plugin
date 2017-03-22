@@ -3,21 +3,19 @@
 <context>
     <name>MyWidget</name>
     <message>
-        <location filename="../dialogs.py" line="81"/>
+        <location filename="../dialogs.py" line="83"/>
         <source>Sample Plugin</source>
-        <translation>
-Exemple de plugin</translation>
+        <translation>Exemple de plugin</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="82"/>
+        <location filename="../dialogs.py" line="84"/>
         <source>Sample Label</source>
         <translation>Étiquette d&apos;échantillon</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="83"/>
+        <location filename="../dialogs.py" line="85"/>
         <source>Push the button</source>
-        <translation>
-Appuyez sur le bouton</translation>
+        <translation>Appuyez sur le bouton</translation>
     </message>
 </context>
 </TS>

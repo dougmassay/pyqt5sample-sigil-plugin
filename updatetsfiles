@@ -11,7 +11,7 @@ import subprocess
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 
-# pylupdate command must be in PATH
+# pylupdate5 command must be in PATH
 if __name__ == '__main__':
     os.chdir(SCRIPT_DIR)
     cmd = ['pylupdate5', 'translations.pro']

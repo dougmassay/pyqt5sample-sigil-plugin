@@ -3,17 +3,17 @@
 <context>
     <name>MyWidget</name>
     <message>
-        <location filename="../dialogs.py" line="81"/>
+        <location filename="../dialogs.py" line="83"/>
         <source>Sample Plugin</source>
         <translation>Plug-in di esempio</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="82"/>
+        <location filename="../dialogs.py" line="84"/>
         <source>Sample Label</source>
         <translation>etichetta di esempio</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="83"/>
+        <location filename="../dialogs.py" line="85"/>
         <source>Push the button</source>
         <translation>Premi il bottone</translation>
     </message>

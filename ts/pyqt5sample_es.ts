@@ -3,18 +3,17 @@
 <context>
     <name>MyWidget</name>
     <message>
-        <location filename="../dialogs.py" line="81"/>
+        <location filename="../dialogs.py" line="83"/>
         <source>Sample Plugin</source>
-        <translation>
-Ejemplo de complemento</translation>
+        <translation>Ejemplo de complemento</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="82"/>
+        <location filename="../dialogs.py" line="84"/>
         <source>Sample Label</source>
         <translation>Etiqueta de muestra</translation>
     </message>
     <message>
-        <location filename="../dialogs.py" line="83"/>
+        <location filename="../dialogs.py" line="85"/>
         <source>Push the button</source>
         <translation>Presione el botón</translation>
     </message>
