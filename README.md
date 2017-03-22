@@ -74,7 +74,7 @@ Files used for building/maintaining the plugin:
 License Information
 =======
 
-###PyQt5Sample
+### PyQt5Sample
 
 Available under the terms of the [MIT license](http://opensource.org/licenses/mit-license.php)
 
