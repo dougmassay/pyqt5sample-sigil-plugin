@@ -1,7 +1,7 @@
 PyQt5Sample
 ============
 
-Sample plugin utilizing PyQt5 gui elements and basic translations.
+Sample Sigil plugin utilizing PyQt5 gui elements and basic translations.
 
 
 Links
